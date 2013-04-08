@@ -26,6 +26,7 @@ I want to help o/
 
 Thank you!
 Make sure you have virtual box installed, fork and clone the repo and run:
+
     $ bundle install
     $ vagrant up
 
